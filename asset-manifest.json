@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ankurchaube.github.io/react-toolkit/static/css/main.76428581.css",
+    "main.js": "/ankurchaube.github.io/react-toolkit/static/js/main.01e1e267.js",
+    "index.html": "/ankurchaube.github.io/react-toolkit/index.html",
+    "main.76428581.css.map": "/ankurchaube.github.io/react-toolkit/static/css/main.76428581.css.map",
+    "main.01e1e267.js.map": "/ankurchaube.github.io/react-toolkit/static/js/main.01e1e267.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76428581.css",
+    "static/js/main.01e1e267.js"
+  ]
+}
